@@ -3,7 +3,7 @@
 
 title: Python for Absolute Beginners
 author: Alfred Essa
-logo: pyxilogotrans.png
+logo: aifm-logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
