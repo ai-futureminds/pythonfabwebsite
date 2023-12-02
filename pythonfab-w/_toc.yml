@@ -1,0 +1,26 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: About
+    chapters:
+      - file: faq
+  - caption: Curriculum
+    chapters:
+      - file: pylevelone
+  - caption: Schedule
+    chapters:
+      - file: pylevelone_sched
+  - caption: Code Repository
+    chapters:
+      - file: pylevelone_coderepo
+
+
+
+
+
+
+
