@@ -11,6 +11,8 @@ parts:
   - caption: Curriculum
     chapters:
       - file: pylevelone
+      - file: pyleveltwo
+      - file: pylevelthree
   - caption: Schedule
     chapters:
       - file: pylevelone_sched

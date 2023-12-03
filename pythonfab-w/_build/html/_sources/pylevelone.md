@@ -1,46 +1,49 @@
+# <font color = "maroon">Python Master I: White Belt</font>
 
+The curriculum for **Python Master Level I** contains six learning objectives. Upon demonstrated completion of the learning objectives, the student is awarded a Python Master certificate with rank **Mukyu** (無級) rank (White Belt).
 
-# <font color = "maroon">Python Level I</font>
+```{image} /images/mukyu.png
+:width: 450px
+:align: center
+```
+---
+---
 
+ # <font color = "maroon">Mukyu Rank Learning Path</font>
 
-##  Curriculum
-
-The curriculum for Python Level I contains 14 learning objectives.
-
-
-
-## Learning Objectives 1-6
-
-The first six learning objectives will get you started. You will learn how to setup your Python "cockpit" for programming. The cockpit (VS Code) is what many professional programmers use. You will write and execute your first couple of Python programs. And, finally, you will get a first overview of the most important concepts of programming.
-
-
-
-```{image} /images/curr
-
-
-iculum1.png
-:width: 600px
+ ```{image} /images/pymukyupath.png
+:width: 750px
 :align: center
 ```
 
-## Learning Objectives 7-12
+---
+---
+---
 
+# <font color = "maroon">Mukyu Rank Learning Objectives</font>
 
-The next six learning objectives get at the core foundational concepts you need on your journey to master Python. We will begin with the basics of computer architecture so you begin to understand what happens "under the hood" when you are programming. The you will learn about the "objects" in Python, beginning with primitive objects (atoms) and then collections (molecules). You learn how to perform operations on both. Then you will be introduced to control flow through iteration and branching. You will also learn about indices and slicing, which are critical concepts when working with ordered sequences and collections.
+**Install and Verify Python**
 
-```{image} /images/curriculum2.png
-:width: 600px
-:align: center
-```
+- Students will learn to download and install Python from the official website. They will verify the installation by running a simple command in the command line or terminal, ensuring Python is correctly installed and the version is up to date.
 
+**Install and Verify VS Code**
 
-## Learning Objectives 13-14.
+- This objective involves downloading and installing Visual Studio Code (VS Code), a popular code editor. Students will learn to verify its installation and explore basic navigation, including how to open a Python file and use the integrated terminal.
 
-We will finish up by learning how to write your own functions. We will also explain how functions in programming are related to mathematical functions. The final learning objective is a first introduction to debugging.
+**Learn Python Interactive Shell Basics**
 
-```{image} /images/curriculum3.png
-:width: 600px
-:align: center
-```
+- Students will be introduced to the Python Interactive Shell, a tool for writing and testing Python code in real-time. They will learn how to execute Python commands, explore basic syntax, and use the shell for quick code experiments.
 
+**Create GitHub Account**
+
+- The focus here is on creating a GitHub account, a crucial platform for hosting and sharing code. Students will learn the steps to sign up for an account and navigate the basic features of GitHub.
+
+**Create Git Repository**
+
+- Students will learn to create a new Git repository, both locally on their computer and remotely on GitHub. This includes initializing a repository, understanding the repository structure, and linking the local repository to a GitHub account.
+
+**Learn Git Basics**
+
+- This objective covers the fundamental operations of Git, a version control system. Students will learn basic Git commands such as git add, git commit, and git push. They will also understand how to track changes, revert to previous versions of code, and collaborate with others using Git.
+These objectives lay the foundation for students to become proficient in Python programming, understand the development environment, and utilize version control for their projects.
 

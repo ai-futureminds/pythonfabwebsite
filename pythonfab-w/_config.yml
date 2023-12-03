@@ -4,7 +4,8 @@
 title: Python for Absolute Beginners
 author: Alfred Essa
 logo: aifm-logo.png
-
+html_static_path:
+  - _static
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
@@ -27,6 +28,7 @@ repository:
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
-html:
-  use_issues_button: true
-  use_repository_button: true
+
+# added by essa to support custom css in _static path (also created directory)
+html_static_path:
+  - _static
