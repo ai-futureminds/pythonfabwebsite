@@ -6,7 +6,7 @@
 :align: center
 ```
 
-## <font color = "blue">Curriculum</font>
+# <font color = "maroon">Curriculum</font>
 
 The curriculum for **Python Master Level II** (Purple Belt) contains 7 learning objectives. Upon demonstrated completion of the learning objectives, the student is awarded a certificate with a  **Kukyu (九級)** rank or a yellow belt.
 
@@ -22,7 +22,7 @@ The curriculum for **Python Master Level II** (Purple Belt) contains 7 learning 
 ## <font color = "blue">Python Master Mukyu Path</font>
 
 
-```{image} /images/pythonkukyupath.png
+```{image} /images/pykukyupath.png
 :width: 700px
 :align: center
 ```
