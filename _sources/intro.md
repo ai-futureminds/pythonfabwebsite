@@ -1,39 +1,49 @@
 # <font color ="maroon"> Welcome to PythonFAB</font>
 
-**Welcome to Python for Absolute Beginners**. PythonFAB is a free online program designed for busy professionals who want to learn how to program quickly and efficiently. You will learn to "code" in Python, but our objective is also to teach you: 
-
-- the art of computation 
-- the power of abstraction
-- the nuances of technical complexity
-
-Your takeaway will be the practical skills you can apply in the workplace, not just today or tomorrow but for a lifetime.
-
-&nbsp;
-&nbsp;
-
-
+PythonFAB is an online program designed for busy professionals who want to learn how to program quickly and efficiently. Whether you are an aspiring entrepreneur, business leader, or technical manager, our goal is to prepare you for the Age of AI. Your takeaway will be a set of practical skills you can apply in the workplace, not just today or tomorrow but for a lifetime.
 
 ```{image} /images/davincipython.jpg
 :width: 350px
 :align: center
-
 ```
 &nbsp;
 &nbsp;
+&nbsp;
+# <font color ="maroon"> Python Foundations Curriculum</font>
+
+Our curriculum focus for 2024 is **Python Foundations**, three mini-courses designed to give you a solid foundational knowledge of basic Python. The knowledge can be used as springboard for business or technical careers in professions ranging from web programming to data science and artificial intelligence. 
+&nbsp;
+&nbsp;
+&nbsp;
+
+```{image} /images/pyfoundations.png
+:width: 750px
+:align: center
+```
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-
-# <font color = "maroon"> Why Python? </font>
-
-Python is the *de facto* programming language for the Age of AI. It can be applied to traditional tasks such as web development and network analysis. But Python is also the essential gateway language for scientific computing, data science, and the cluster of emerging technologies around AI.
+# <font color ="maroon">Course Sequence</font>
 
 
-# <font color = "maroon"> Sessions </font>
+- **Python Master I ("Professional Development Environment")**. Think of your journey as learning to fly an airplane. The first step is to master the instrumentation in the cockpit of a modern airplane. In the first mini-course you will learn how to setup a professional development environment, including VS Code and Git.
 
-All sessions are announced in the [Meetup Python for Absolute Beginners](https://www.meetup.com/python-for-absolute-beginners/). Please join the group (it's free) to receive current information about events and activities.
+```{image} /images/cockpit.png
+:width: 350px
+:align: center
+```
+- **Python Master II ("Fundamentals")**. In the second mini-course, you will learn the fundamental concepts of programming in Python. These include data structures, iteration, branching, and functions. As you get familiar with the instrumentation, you will begin to write your first Python programs to reinforce the main concepts.
 
+```{image} /images/trainerpilot.png
+:width: 350px
+:align: center
+```
 
-# <font color = "maroon"> Discord </font>
+- **Python Master III ("Applied")**. In the final mini-course, you will go on your first "solo flight" using Python. You will use Python to build a "real" end-to-end web application for tracking personal finances. The lessons will include constructing the application layout, separating business logic from the user interface, implementing basic security, adding a data persistence layer, and deploying it to the cloud.
 
-If you have questions or need support throughout your journey of learning Python, Data Science, or AI, we encourage to join the AI-FutureMinds Discord Channel. The Discord channel is spelled **ai_futureminds** (with an underscore).
-
+```{image} /images/futureplane.png
+:width: 350px
+:align: center
+```
