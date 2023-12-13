@@ -1,28 +1,23 @@
-# <font color = "maroon">Python Master III: Orange Belt</font>
+# <font color = "maroon">Python Master III - LOs</font>
 
-The curriculum for **Python Master Level III** *(Orange Belt)* contains 12 learning objectives. Upon demonstrated completion of the learning objectives, the student is awarded a certificate with a  **Hachikyu" (八級)** rank or an orange belt.
+The curriculum for **Python Master Level III** contains 12 learning objectives. 
 
-```{image} /images/hachikyu.png
-:width: 450px
-:align: center
-```
-
-
-# <font color = "blue">Hachikyu Rank Learning Path</font>
-
-
-```{image} /images/hachikyu1path.png
+# <font color = "maroon">Learning Path</font>
+---
+---
+```{image} /images/pylevel3apath.png
 :width: 700px
 :align: center
 ```
-
-```{image} /images/hachikyu2path.png
+---
+---
+```{image} /images/pylevel3bpath.png
 :width: 700px
 :align: center
 ```
-
-# <font color = "blue">Hachikyu Rank Learning Objectives</font>
-
+---
+---
+# <font color = "maroon">Learning Objectives</font>
 **Understand the Fundamentals of Streamlit:** 
 
 - Gain a foundational understanding of how Streamlit works for web application development, including its setup and basic functionalities.
