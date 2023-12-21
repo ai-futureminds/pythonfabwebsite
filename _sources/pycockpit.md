@@ -1,12 +1,15 @@
-# <font color = "maroon">Python Foundations</font>
+# <font color = "maroon">I: Python Cockpit</font>
 
+Think of your Python journey as learning to fly an airplane. As a first step, the pilot must master the instrumentation in the cockpit. In the first bootcamp, you will setup a **Professional Development Environment** ("cockpit") for programming in Python. The primary instruments you will learn are *VS Code*, the *Command Line* or *Terminal environment*, and *Git*. 1) *VS Code* is powerful code editor but it is also the cockpit in which other instruments are incorporated. 2) The *Command Line* environment provides direct communication with the operating system. It allows users to perform various tasks such as managing files and directories, running scripts, and launching applications. It's a powerful tool that gives users more control over their system and is widely used in software development and system administration. 3) Git is a distributed version control system that allows multiple people to work on a project at the same time without overwriting each other's changes.  It tracks and records changes to files in a repository so you can see what was changed, who changed it, and why. It's widely used in software development for source code management.
 
----
----
+```{image} /images/cockpit.png
+:width: 350px
+:align: center
+```
 
 # <font color = "maroon">Learning Path</font>
 
- ```{image} /images/pylevel1path.png
+ ```{image} /images/pycockpitpath.png
 :width: 750px
 :align: center
 ```
