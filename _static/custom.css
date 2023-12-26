@@ -8,6 +8,15 @@
     border-left: 4px solid #ccc;    /* Property: border-left */
     padding-left: 1em;    /* Property: padding-left */
     margin: 2em 0;    /* Property: margin */
-    /* font-weight: bold;    /* Property: font-weight */
+    
+}     /* End of the class */
+
+
+.styled-quote2 {     /* Start of the class */
+    color: #555;    /* Property: color */
+    background-color: #00991c; /* This sets the background color to a light gray */
+    border-left: 4px solid #ccc;    /* Property: border-left */
+    padding-left: 1em;    /* Property: padding-left */
+    margin: 2em 0;    /* Property: margin */
     
 }     /* End of the class */

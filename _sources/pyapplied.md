@@ -1,4 +1,4 @@
-# <font color = "maroon">III. Applied Python</font>
+# <font color = "darkgreen">Python Applied</font>
 
 In the final bootcamp, you will learn how to build a "real" end-to-end web application for tracking personal finances. The lessons will include constructing the application layout, separating business logic from the user interface, implementing basic security, adding a data persistence layer, and deploying it to the cloud. You will be able to personalize and refine the application based on your own needs as they evolve.
 
@@ -7,7 +7,7 @@ In the final bootcamp, you will learn how to build a "real" end-to-end web appli
 :align: center
 ``` 
 
-# <font color = "maroon">Learning Path</font>
+# <font color = "darkgreen">Learning Path</font>
 ---
 ---
 ```{image} /images/appliedpypath-a.png
@@ -22,7 +22,7 @@ In the final bootcamp, you will learn how to build a "real" end-to-end web appli
 ```
 ---
 ---
-# <font color = "maroon">Learning Objectives</font>
+# <font color = "darkgreen">Learning Objectives</font>
 
 **Understand the Fundamentals of Streamlit:** 
 

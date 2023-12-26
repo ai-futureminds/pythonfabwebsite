@@ -1,4 +1,4 @@
-# <font color = "maroon">II: Core Python</font>
+# <font color = "darkgreen">Python Core</font>
 
 In the second bootcamp, you will learn the fundamental concepts of programming in Python. These include data structures, iteration, branching, and functions. At the end of the bootcamp, you will have a good overview of the main elements of programming in Python. You will also begin to write your first Python programs using the Profession Development Environment learned in the first bootcamp.
 
@@ -7,14 +7,14 @@ In the second bootcamp, you will learn the fundamental concepts of programming i
 :align: center
 ```
 
-# <font color = "maroon">Learning Path</font>
+# <font color = "darkgreen">Learning Path</font>
 
 ```{image} /images/corepythonpath.png
 :width: 750px
 :align: center
 ```
 
-# <font color = "maroon">Learning Objectives</font>
+# <font color = "darkgreen">Learning Objectives</font>
 
 **1. Understand the Basic Principles of Programming and Computer Architecture**
 
