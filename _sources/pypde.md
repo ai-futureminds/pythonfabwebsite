@@ -2,7 +2,9 @@
 
 Think of your Python journey as learning to fly an airplane. As a first step, the pilot must master the instrumentation in the cockpit. 
 
-In the first bootcamp, you will setup and learn to use a **Professional Development Environment (PDE)** for programming in Python. 
+```{div} styled-quote
+> In the first bootcamp, you will setup and learn to use a **Professional Development Environment (PDE)** for programming in Python. 
+```
 
 ---
 ```{image} /images/pythoncockpit.png
@@ -13,14 +15,13 @@ In the first bootcamp, you will setup and learn to use a **Professional Developm
 
 The primary instruments you will learn are:
 
--  **Visual Studio Code**
--  **Command Line Environment**
--  **Git** and **GitHub**
+-  **Visual Studio Code**: *VS Code* is powerful code editor but it is also the cockpit in which other instruments are incorporated. 
+-  **Command Line Environment**: The *Command Line Environment* (also called Terminal environment) provides direct communication with the operating system. It allows users to perform various tasks such as managing files and directories, running scripts, and launching applications. It's a powerful tool that gives users more control over their system and is widely used in software development and system administration.
 
- *VS Code* is powerful code editor but it is also the cockpit in which other instruments are incorporated. 2) The *Command Line* environment provides direct communication with the operating system. It allows users to perform various tasks such as managing files and directories, running scripts, and launching applications. It's a powerful tool that gives users more control over their system and is widely used in software development and system administration. 3) Git is a distributed version control system that allows multiple people to work on a project at the same time without overwriting each other's changes.  It tracks and records changes to files in a repository so you can see what was changed, who changed it, and why. It's widely used in software development for source code management.
+-  **Git** and **GitHub**. *Git* is a distributed version control system that allows multiple people to work on a project at the same time without overwriting each other's changes.  It tracks and records changes to files in a repository so you can see what was changed, who changed it, and why. It's widely used in software development for source code management. *GitHub* is a web-based hosting service for version control using Git. It is primarily used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of *Git* as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. *GitHub* offers plans for both private repositories and free accounts which are commonly used to host open-source software projects. 
 
 
-#### <font color = "darkblue">Learning Path</font>
+# <font color = "darkblue">Learning Path</font>
 
 The learning path for Python PDE covers 7 learning objectives. At the end, you will have installed a professional development environment. You will also become familiar with the basics of VS Code, Git and GitHub, and the Command Line or Terminal Environment.
 
@@ -29,8 +30,9 @@ The learning path for Python PDE covers 7 learning objectives. At the end, you w
 :align: center
 ```
 ---
+---
 
-#### <font color = "darkgreen">Learning Objectives</font>
+# <font color = "darkgreen">Learning Objectives</font>
 
 
 **1. Install and Verify Python**
