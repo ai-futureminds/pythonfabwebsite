@@ -2,7 +2,7 @@
 
 In the second bootcamp, you will learn the fundamental concepts of programming in Python. These include data structures, iteration, branching, and functions. At the end of the bootcamp, you will have a good overview of the main elements of programming in Python. You will also begin to write your first Python programs using the Profession Development Environment learned in the first bootcamp.
 
-```{image} /images/trainerpilot.png
+```{image} /images/flightschool.png
 :width: 350px
 :align: center
 ```

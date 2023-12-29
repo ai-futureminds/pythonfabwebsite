@@ -1,8 +1,8 @@
 # <font color = "darkgreen">Python Applied</font>
 
-In the final bootcamp, you will learn how to build a "real" end-to-end web application for tracking personal finances. The lessons will include constructing the application layout, separating business logic from the user interface, implementing basic security, adding a data persistence layer, and deploying it to the cloud. You will be able to personalize and refine the application based on your own needs as they evolve.
+In the final bootcamp, you will undertake your first solo flight in Python. You will build a "real" end-to-end web application for tracking personal finances. The lessons will include constructing the application layout, separating business logic from the user interface, implementing secure authentication or login, adding a data persistence or database layer, and deploying your final application to the cloud. 
 
-```{image} /images/futureplane.png
+```{image} /images/soloflight.png
 :width: 350px
 :align: center
 ``` 

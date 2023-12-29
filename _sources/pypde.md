@@ -1,15 +1,23 @@
 # <font color = "darkgreen">Python PDE</font>
 
-Think of your Python journey as learning to fly an airplane. As a first step, the pilot must master the instrumentation in the cockpit. In the first bootcamp, you will setup and learn to use a **Professional Development Environment (PDE)** for programming in Python. 
+Think of your Python journey as learning to fly an airplane. As a first step, the pilot must master the instrumentation in the cockpit. 
+
+In the first bootcamp, you will setup and learn to use a **Professional Development Environment (PDE)** for programming in Python. 
 
 ---
-```{image} /images/cockpit.png
+```{image} /images/pythoncockpit.png
 :width: 350px
 :align: center
 ```
 ---
 
-The primary instruments you will learn are *VS Code*, the *Command Line* or *Terminal environment*, and *Git*. 1) *VS Code* is powerful code editor but it is also the cockpit in which other instruments are incorporated. 2) The *Command Line* environment provides direct communication with the operating system. It allows users to perform various tasks such as managing files and directories, running scripts, and launching applications. It's a powerful tool that gives users more control over their system and is widely used in software development and system administration. 3) Git is a distributed version control system that allows multiple people to work on a project at the same time without overwriting each other's changes.  It tracks and records changes to files in a repository so you can see what was changed, who changed it, and why. It's widely used in software development for source code management.
+The primary instruments you will learn are:
+
+-  **Visual Studio Code**
+-  **Command Line Environment**
+-  **Git** and **GitHub**
+
+ *VS Code* is powerful code editor but it is also the cockpit in which other instruments are incorporated. 2) The *Command Line* environment provides direct communication with the operating system. It allows users to perform various tasks such as managing files and directories, running scripts, and launching applications. It's a powerful tool that gives users more control over their system and is widely used in software development and system administration. 3) Git is a distributed version control system that allows multiple people to work on a project at the same time without overwriting each other's changes.  It tracks and records changes to files in a repository so you can see what was changed, who changed it, and why. It's widely used in software development for source code management.
 
 
 #### <font color = "darkblue">Learning Path</font>
