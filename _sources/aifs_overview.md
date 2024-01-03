@@ -10,8 +10,8 @@
 ---
 ---
 
-```{image} /images/aifaststartcaption.png
-:width: 500px
+```{image} /images/getsmart.png
+:width: 600px
 :align: center
 ```
 ---
@@ -19,16 +19,20 @@
 
 # <font color ="darkblue">Why AI-FastStart?</font>
 
-The consensus view among economists is that **AI** will be the ***primary engine of economic growth*** and ***innovation*** for at least the next decade. The majority of high-paying jobs will be in **AI** and related sectors. According to a recent study by McKinsey, **AI** is likely to add trillions of dollars in value to the global economy. 
+The consensus view among economists is that <span style="color:maroon">**AI**</span> will be the ***primary engine of economic growth*** and ***innovation*** for at least the next decade. The majority of high-paying jobs will be in **AI** and related sectors. According to a recent study by McKinsey, <span style="color:maroon">**AI**</span> is likely to add trillions of dollars in value to the global economy. 
 
 ```{div} styled-quote
->  <span style="color:darkgreen">**AI-FastStart**</span> is designed to equip you with both the <span style="color:darkblue">**business** and **technical skills**</span> essential for securing <span style="color:darkblue">**high-paying jobs**</span> in the new economy. 
+>  <span style="color:darkgreen">**AI-FastStart**</span> is designed to equip you with both the <span style="color:darkblue">**business** and **technical skills**</span> essential for securing <span style="color:darkblue">**high-paying jobs**</span> in the new economy. Fast Start means we prepare you quickly and economically because you don't have time and money to waste.
 ```
 
-Do you want to spend tens of thousands of dollars and hundreds of hours in class, only to find out a couple of years later that you are in debt and have acquired mostly useless knowledge? Instead of making a long term commitment to a program that might not be the right fit for you, is there a better way?
+# <font color ="darkblue">Business as Usual Learning</font>
+
+The problem with "Business as Usual Learning" is that you don't learn everything you need and acquire a lot that you don't need. The first creates a learning gap or holes in your learning, The second leads to wasted learning.
+
+You can spending tens of thousands of dollars of funds and hundreds of hours in class, only to find out much later that you are saddled with debt and don't have the practical skills you need to move forward with your life. Instead of making a long term commitment to a program that might not be the right fit for you, maybe it's time to ask if there is a better way?
 
 ```{image} /images/debtstudent.png
-:width: 400px
+:width: 600px
 :align: center
 ```
 ---
@@ -46,18 +50,15 @@ Do you want to spend tens of thousands of dollars and hundreds of hours in class
 
 
 - Each bootcamp is conducted by a live instructor.
-- Each bootcamp consists of 2-5 live sessions.
-- A recording of the sessions is available to all participants for a period of three months. 
-- Participants have access to <span style="color:purple">**AI-FutureMinds Academy**</span> for follow-up questions and additional resources.
+- A recording of the sessions is available to all participants. 
+- Participants get access to <span style="color:purple">**AI-FutureMinds Academy**</span> for follow-up questions and additional learning resources.
 - If you are dissatisfied for any reason, each bootcamp comes with full money back guarantee.
 
-
-
 ---
 ---
 
-```{image} /images/smartstudent.png
-:width: 400px
+```{image} /images/aifaststart.png
+:width: 600px
 :align: center
 ```
 

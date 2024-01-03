@@ -16,7 +16,7 @@ At the end of the sequence, you should have a working knowledge of Python. You c
 For those on a business or management career track, the **Python Foundations** sequence will give you an invaluable overview of how programming is used in industry to solve practical problems.
 
 
-```{image} /images/pyfoundationsbootcamps.png
+```{image} /images/pyfoundbootcamps.png
 :width: 800px
 :align: center
 ```
