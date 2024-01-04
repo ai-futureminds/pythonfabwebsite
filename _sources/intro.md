@@ -15,7 +15,7 @@
 
 # <font color ="darkblue">AI-FastStart</font>
 
-<span style="color:darkgreen">**GET SMART in 2024**</span> with one of our <span style="color:darkgreen">**AI-FastStart**</span> programs. Each program is designed to give you practical skills in <span style="color:maroon">**AI** quickly and cost-effectively.</span> Check out our first program, [<span style="color:darkgreen">**Python Foundations**</span>](pyfound_overview.md), which launches in January 2024.
+<span style="color:darkgreen">**GET SMART in 2024**</span> with one of our <span style="color:darkgreen">**AI-FastStart**</span> programs. Each program is designed to give you practical skills in <span style="color:maroon">**Artificial Intelligence**</span> quickly and cost-effectively.  Check out our first program, [<span style="color:darkgreen">**Python Foundations**</span>](pyfound_overview.md), which launches in January 2024.
 
 ---
 ---
