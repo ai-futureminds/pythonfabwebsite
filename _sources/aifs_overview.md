@@ -75,7 +75,9 @@ With "Business-as-Usual-Learning" you can end up spending tens of thousands of d
 
 The center piece of AI-FastStart is a series of bootcamps.
 
-- Each bootcamp is conducted by a live instructor.
+- Each bootcamp is conducted by a live instructor on Zoom.
+- Participation and interaction is highly encouraged during the sessions.
+- To protect your privacy, you may keep the video on or off.  
 - A recording of the sessions is available to all participants. 
 - Participants get access to <span style="color:purple">**AI-FutureMinds Academy**</span> for follow-up questions and additional learning resources, including a workbook to chart progress.
 - If you are dissatisfied for any reason, each bootcamp comes with full money back guarantee. No questions asked.

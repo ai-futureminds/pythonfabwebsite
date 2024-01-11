@@ -10,7 +10,7 @@ The Python Foundations sequence consists of three bootcamps. The cost for the bo
 
 - **Python PDE:** $25
 - **Python Core:** $50
-- **Python Applied:** $75
+- **Python Applied:** $100
 
 ```{image} /images/pyfoundbootcamps.png
 :width: 750px
